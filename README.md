@@ -5,15 +5,15 @@ Setup macOS for my liking.
 # Essetial Setup
 
 1. Download [master archive](https://github.com/elishaterada/dotfiles/archive/master.zip)
-2. Setup macOS defaults: `sh .macos`
-2. Copy macOS dotfiles: `sh setup-dotfiles.sh`
-3. Setup essential macOS tools: `sh setup-tools.sh`
+2. Copy macOS dotfiles to home dir: `sh setup-dotfiles.sh`
+3. Setup macOS defaults: `sh .macos`
+4. Setup macOS build tools: `sh setup-tools.sh`
+5. Install essential dev tools and apps: `sh brew.sh`
 
 # Optional Setup
 
-4. Install minimum viable dev tools: `sh brew.sh`
-5. Install full dev suite `sh brew-expansion.sh`
-6. Install work specific tools `sh brew-work.sh`
+6. Install additional useful apps `sh brew-expansion.sh`
+7. Install work specific apps `sh brew-work.sh`
 
 # Thanks to...
 * [Fresh Public Scripts](https://bitbucket.org/freshconsulting/fresh-public-scripts)
