@@ -1,6 +1,9 @@
 # Elisha's dotfiles
 
-Not to be used for general purpose machine setup, very specific to what I currently use for my projects on macOS.
+Setup macOS for my liking.
+
+# Run
+`curl -s https://raw.githubusercontent.com/elishaterada/dotfiles/master/setup.sh|bash`
 
 # Thanks to...
 * [Fresh Public Scripts](https://bitbucket.org/freshconsulting/fresh-public-scripts)

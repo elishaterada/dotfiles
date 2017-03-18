@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-# run with:
-# curl -s https://.../setup.sh|bash
-
 # Setup macOS defaults
 sh .macos
 
