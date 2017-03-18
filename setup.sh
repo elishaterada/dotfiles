@@ -46,9 +46,3 @@ sudo xcodebuild -license accept
 # Run Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap caskroom/cask
-
-# Install tools via Brew / Cask
-./brew.sh
-
-# Install Node packages
-./setup.sh
