@@ -14,6 +14,7 @@ Setup macOS for my liking.
 
 6. Install additional useful apps `sh brew-expansion.sh`
 7. Install work specific apps `sh brew-work.sh`
+8. Install commonly used global Node apps `sh node.sh`
 
 # Thanks to...
 * [Fresh Public Scripts](https://bitbucket.org/freshconsulting/fresh-public-scripts)
