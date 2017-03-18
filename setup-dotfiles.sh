@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-# Setup macOS defaults
-sh .macos
-
 # Copy dotfiles to home directories
 function doIt() {
 	rsync --exclude ".git/" \
@@ -15,7 +12,7 @@ function doIt() {
     --exclude "MANUAL.md" \    
     --exclude "node.sh" \    
 		--exclude "README.md" \
-		--exclude "setup-preferences.sh" \
+		--exclude "setup-dotfiles.sh" \
 		--exclude "setup-tools.sh" \
 		-avh --no-perms . ~;
 	source ~/.bash_profile;

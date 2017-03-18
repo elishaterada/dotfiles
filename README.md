@@ -5,7 +5,8 @@ Setup macOS for my liking.
 # Essetial Setup
 
 1. Download [master archive](https://github.com/elishaterada/dotfiles/archive/master.zip)
-2. Setup essential macOS preferences: `sh setup-preferences.sh`
+2. Setup macOS defaults: `sh .macos`
+2. Copy macOS dotfiles: `sh setup-dotfiles.sh`
 3. Setup essential macOS tools: `sh setup-tools.sh`
 
 # Optional Setup
