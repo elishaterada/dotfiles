@@ -8,6 +8,7 @@ brew cask install adobe-creative-cloud
 brew cask install google-drive
 brew cask install namechanger
 brew cask install recordit
+brew cask install grammarly
 
 # Entertainment Apps
 brew cask install spotify
