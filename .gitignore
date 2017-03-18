@@ -1,0 +1,9 @@
+*~
+.log
+
+# Folder view config files
+.DS_Store
+
+# Editors
+.idea
+.vscode
