@@ -47,7 +47,7 @@ alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && k
 alias hosts='sudo $EDITOR /etc/hosts'
 
 # MAMP Shortcuts
-alias vhosts='sudo subl /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf'
+alias vhosts='sudo $EDITOR /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf'
 alias error_php='tail -f /Applications/MAMP/logs/php_error.log'
 alias error_apache='tail -f /Applications/MAMP/logs/apache_error.log'
 alias error_mysql='tail -f /Applications/MAMP/logs/mysql_error_log.err'
