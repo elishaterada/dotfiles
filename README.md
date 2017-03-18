@@ -2,31 +2,13 @@
 
 Setup macOS for my liking.
 
-# Run Automations
+# Setup
 
-## Basic Mac Env Setup
-
-The most essential setup for macOS.
-
-`curl -s https://raw.githubusercontent.com/elishaterada/dotfiles/master/setup.sh|bash`
-
-## Install Minimum Viable Dev Tools
-
-Designed to quickly get back to work while you work on backup computer.
-
-`curl -s https://raw.githubusercontent.com/elishaterada/dotfiles/master/brew.sh|bash`
-
-## Install Full Dev Suite
-
-Get full suite of apps on main machine for full productivity.
-
-`curl -s https://raw.githubusercontent.com/elishaterada/dotfiles/master/brew-expansion.sh|bash`
-
-## Install Work Specific Tools
-
-Install work specific tools of wherever I'm currently working at.
-
-`curl -s https://raw.githubusercontent.com/elishaterada/dotfiles/master/brew-work.sh|bash`
+1. Download [master archive](https://github.com/elishaterada/dotfiles/archive/master.zip)
+2. Setup essential macOS env: `sh setup.sh`
+3. Install minimum viable dev tools: `sh brew.sh`
+4. Install full dev suite `sh brew-expansion.sh`
+5. Install work specific tools `sh brew-work.sh`
 
 # Thanks to...
 * [Fresh Public Scripts](https://bitbucket.org/freshconsulting/fresh-public-scripts)
