@@ -4,6 +4,7 @@
 cp -p .aliases ~/.aliases
 cp -p .bash_profile ~/.bash_profile
 cp -p .exports ~/.exports
+cp -p .extras ~/.extras
 cp -p .gitignore ~/.gitignore
 cp -p .bashrc ~/.bashrc
 
