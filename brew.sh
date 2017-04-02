@@ -4,6 +4,7 @@
 brew install git
 brew install n
 brew install yarn
+brew install ansible
 brew cask install sourcetree
 brew cask install mamp
 
