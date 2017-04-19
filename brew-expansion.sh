@@ -3,6 +3,7 @@ brew cask install vagrant
 brew cask install virtualbox
 brew cask install cyberduck
 brew cask install adobe-creative-cloud
+brew cask install obs
 
 # Productivity Tools
 brew cask install google-drive
@@ -13,3 +14,4 @@ brew cask install grammarly
 # Entertainment Apps
 brew cask install spotify
 brew cask install quik
+brew cask install vlc
