@@ -2,10 +2,7 @@
 
 # Dev Tools
 brew install git
-brew install n
-brew install yarn
 brew install ansible
-brew python3
 brew cask install sourcetree
 brew cask install mamp
 
