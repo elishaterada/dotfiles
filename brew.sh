@@ -3,12 +3,14 @@
 # Dev Tools
 brew install git
 brew install ansible
+brew install homebrew/php/wp-cli
 brew cask install sourcetree
 brew cask install mamp
+brew cask install postgres
 
 # Editors
 brew cask install visual-studio-code
-brew cask install phpstorm
+brew cask install intellij-idea
 
 # Browsers
 brew cask install google-chrome
