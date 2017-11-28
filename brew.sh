@@ -7,6 +7,7 @@ brew install homebrew/php/wp-cli
 brew cask install sourcetree
 brew cask install mamp
 brew cask install postgres
+brew cask install ngrok
 
 # Editors
 brew cask install visual-studio-code
