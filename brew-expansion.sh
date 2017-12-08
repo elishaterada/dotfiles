@@ -1,9 +1,9 @@
 # Full Dev/Design Suites (Long-Term)
 brew cask install vagrant
+brew cask install docker
 brew cask install virtualbox
 brew cask install cyberduck
 brew cask install adobe-creative-cloud
-brew cask install obs
 
 # Productivity Tools
 brew cask install google-drive
@@ -15,3 +15,4 @@ brew cask install grammarly
 brew cask install spotify
 brew cask install quik
 brew cask install vlc
+brew cask install tweeten

@@ -6,7 +6,6 @@ brew install ansible
 brew install homebrew/php/wp-cli
 brew cask install sourcetree
 brew cask install mamp
-brew cask install postgres
 brew cask install ngrok
 
 # Editors
@@ -19,7 +18,6 @@ brew cask install firefox
 
 # Helpers
 brew cask install go2shell
-brew cask install spectacle
 brew cask install clipy
 brew cask install skitch
 
