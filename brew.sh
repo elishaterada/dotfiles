@@ -11,6 +11,7 @@ brew cask install ngrok
 # Editors
 brew cask install visual-studio-code
 brew cask install intellij-idea
+brew cask install macdwon
 
 # Browsers
 brew cask install google-chrome
