@@ -2,4 +2,6 @@
 
 * Install [Piperita Terminal Theme](https://github.com/killfall/terminal-piperita) automatically
 * Install GoPro Studio
-* Install [manageyum](https://manageyum.com/)
+* Install Trello X (App Store)
+* Install Shady (App Store)
+* Install Magnet (App Store)

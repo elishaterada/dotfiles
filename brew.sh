@@ -2,11 +2,8 @@
 
 # Dev Tools
 brew install git
-brew install ansible
-brew install homebrew/php/wp-cli
 brew cask install sourcetree
-brew cask install mamp
-brew cask install ngrok
+brew cask install docker
 
 # Editors
 brew cask install visual-studio-code
