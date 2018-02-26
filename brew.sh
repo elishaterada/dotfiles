@@ -8,7 +8,7 @@ brew cask install docker
 # Editors
 brew cask install visual-studio-code
 brew cask install intellij-idea
-brew cask install macdwon
+brew cask install macdown
 
 # Browsers
 brew cask install google-chrome
