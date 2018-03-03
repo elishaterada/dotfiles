@@ -1,17 +1,13 @@
 #!/usr/bin/env bash
 
 # Full Dev/Design Suites (Long-Term)
-brew install ansible
 brew install homebrew/php/wp-cli
 brew cask install vagrant
-brew cask install virtualbox
-brew cask install cyberduck
-brew cask install adobe-creative-cloud
 brew cask install ngrok
 brew cask install mamp
 
 # Productivity Tools
-brew cask install google-drive
+brew cask install google-backup-and-sync
 brew cask install namechanger
 
 # Entertainment Apps
