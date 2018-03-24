@@ -1,6 +1,6 @@
 # Things I can't install manually / shouldn't install automatically
 
-* Install [Piperita Terminal Theme](https://github.com/killfall/terminal-piperita) automatically
+* Install [Dracula Terminal Theme](https://draculatheme.com/terminal/) 
 * Install GoPro Studio
 * Install Trello (App Store)
 * Install Magnet (App Store)
