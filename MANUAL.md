@@ -4,3 +4,4 @@
 * Install GoPro Studio
 * Install Trello (App Store)
 * Install Magnet (App Store)
+* Install NordVPN (App Store)

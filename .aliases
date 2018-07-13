@@ -46,12 +46,8 @@ alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && k
 # Edit Files
 alias hosts='sudo $EDITOR /etc/hosts'
 
-# MAMP Shortcuts
-alias vhosts='sudo $EDITOR /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf'
-alias error_php='tail -f /Applications/MAMP/logs/php_error.log'
-alias error_apache='tail -f /Applications/MAMP/logs/apache_error.log'
-alias error_mysql='tail -f /Applications/MAMP/logs/mysql_error_log.err'
-
 # Docker Shortcuts
 alias dc='docker-compose'
 alias dce='docker-compose exec'
+alias dcr='docker-compose up --build'
+alias dcewb='docker-compose exec web bash'

@@ -12,17 +12,12 @@ brew cask install visual-studio-code
 
 # Dev
 brew cask install sourcetree
-brew cask install vagrant
 brew cask install docker
 brew cask install ngrok
 
 # Editors
-brew cask install intellij-idea
+brew cask install jetbrains-toolbox
 brew cask install macdown
-
-# WordPress
-brew cask install mamp
-brew install homebrew/php/wp-cli
 
 # Utilities
 brew cask install appcleaner
@@ -40,13 +35,6 @@ brew cask install zoomus
 # Design
 brew cask install adobe-creative-cloud
 
-# Work
-brew cask install harvest
-
-# VPN
-brew cask install viscosity
-
 # Entertainment
 brew cask install spotify
 brew cask install vlc
-brew cask install tweeten
