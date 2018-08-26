@@ -13,7 +13,7 @@ brew cask install visual-studio-code
 # Dev
 brew cask install sourcetree
 brew cask install docker
-brew cask install ngrok
+brew cask install dbeaver-community
 
 # Editors
 brew cask install jetbrains-toolbox
