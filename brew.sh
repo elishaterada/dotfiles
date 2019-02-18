@@ -27,6 +27,7 @@ brew cask install skitch
 brew cask install google-backup-and-sync
 brew cask install namechanger
 brew cask install lastpass
+brew cask install muzzle
 
 # Communication
 brew cask install slack
