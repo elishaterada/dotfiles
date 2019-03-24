@@ -18,6 +18,7 @@ brew cask install dbeaver-community
 # Editors
 brew cask install jetbrains-toolbox
 brew cask install macdown
+brew cask install boostnote
 
 # Utilities
 brew cask install appcleaner
@@ -35,6 +36,7 @@ brew cask install zoomus
 
 # Design
 brew cask install adobe-creative-cloud
+brew cask install figma
 
 # Entertainment
 brew cask install spotify
