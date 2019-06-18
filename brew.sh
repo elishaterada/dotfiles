@@ -41,3 +41,4 @@ brew cask install figma
 # Entertainment
 brew cask install spotify
 brew cask install vlc
+brew cask install brooklyn
