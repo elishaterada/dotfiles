@@ -6,39 +6,38 @@ brew update
 brew install git
 brew install python
 brew install ruby
-brew cask install google-chrome
-brew cask install firefox
-brew cask install visual-studio-code
+brew install postgres
+brew install --cask google-chrome
+brew install --cask firefox
 
 # Dev
-brew cask install sourcetree
-brew cask install docker
-brew install swiftformat
+brew install --cask sourcetree
+brew install --cask docker
+brew install --cask lens
+brew install --cask visual-studio-code
+brew install --cask fork
+brew install --cask imageoptim
+brew install --cask jetbrains-toolbox
+brew install --cask postman
 
 # Editors
-brew cask install jetbrains-toolbox
-brew cask install macdown
-brew cask install boostnote
+brew install --cask jetbrains-toolbox
 
 # Utilities
-brew cask install appcleaner
-brew cask install go2shell
-brew cask install clipy
-brew cask install skitch
-brew cask install google-backup-and-sync
-brew cask install namechanger
-brew cask install lastpass
-brew cask install muzzle
+brew install --cask appcleaner
+brew install --cask go2shell
+brew install --cask clipy
+brew install --cask skitch
+brew install --cask lastpass
+brew install --cask notion
+brew install --cask numi
 
 # Communication
-brew cask install slack
-brew cask install zoomus
+brew install --cask slack
+brew install --cask zoomus
+brew install --cask krisp
+brew install --cask loom
 
 # Design
-brew cask install adobe-creative-cloud
-brew cask install figma
-
-# Entertainment
-brew cask install spotify
-brew cask install vlc
-brew cask install brooklyn
+brew install --cask adobe-creative-cloud
+brew install --cask figma
