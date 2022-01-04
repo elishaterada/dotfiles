@@ -47,7 +47,6 @@ alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && k
 alias hosts='sudo $EDITOR /etc/hosts'
 
 # Docker Shortcuts
-alias dc='docker-compose'
-alias dce='docker-compose exec'
-alias dcr='docker-compose up --build'
-alias dcewb='docker-compose exec web bash'
+alias dc='docker compose'
+alias dce='docker compose exec'
+alias dcr='docker compose up --build'
