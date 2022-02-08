@@ -4,9 +4,9 @@ brew update
 
 # Critical
 brew install git
-brew install python
-brew install ruby
-brew install postgres
+brew install fd
+brew install htop
+brew install exa
 brew install --cask google-chrome
 brew install --cask firefox
 
@@ -34,7 +34,11 @@ brew install --cask slack
 brew install --cask zoomus
 brew install --cask krisp
 brew install --cask loom
+brew install --cask discord
 
 # Design
 brew install --cask adobe-creative-cloud
 brew install --cask figma
+
+# Media
+brew install --cask vlc
