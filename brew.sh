@@ -7,6 +7,7 @@ brew install git
 brew install fd
 brew install htop
 brew install exa
+brew install ripgrep
 brew install --cask google-chrome
 brew install --cask firefox
 
@@ -32,7 +33,6 @@ brew install --cask cyberghost-vpn
 # Communication
 brew install --cask slack
 brew install --cask zoomus
-brew install --cask krisp
 brew install --cask loom
 brew install --cask discord
 

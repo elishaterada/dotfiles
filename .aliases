@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+PATH=~/bin:$PATH
+
 # Easier navigation: .., ..., ...., ....., ~
 alias ..="cd .."
 alias ...="cd ../.."
@@ -16,17 +18,11 @@ else # macOS `ls`
 	export LSCOLORS='BxBxhxDxfxhxhxhxhxcxcx'
 fi
 
-# List all files colorized in long format, including dot files
-alias ls="ls -FGlah ${colorflag}"
-
-# Always enable colored `grep` output
-# Note: `GREP_OPTIONS="--color=auto"` is deprecated, hence the alias usage.
-alias grep='grep --color=auto'
-alias fgrep='fgrep --color=auto'
-alias egrep='egrep --color=auto'
-
-# Enable aliases to be sudo’ed
-alias sudo='sudo '
+# Replae native tools
+alias find="fd"
+alias ls="exa -lah"
+alias grep="ripgrep"
+alias top="htop"
 
 # IP addresses
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
